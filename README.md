@@ -2,7 +2,6 @@
 
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
 ![Status](https://img.shields.io/badge/status-active-success)
-![License](https://img.shields.io/badge/license-MIT-green)
 
 Un sistem complet de management pentru cafenele, dezvoltat în Python, care permite gestionarea clienților, angajaților, produselor, comenzilor și generarea de rapoarte financiare detaliate.
 
