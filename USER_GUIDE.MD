@@ -735,30 +735,9 @@ Doresti sa salvezi acest raport? (da/nu): da
 ✅ Notează feedback-ul clienților  
 ✅ Păstrează prețurile competitive  
 
----
-
-## 📞 Asistență și Suport
-
-### Ai nevoie de ajutor?
-
-📧 **Email:** support@cafenea-system.com  
-📱 **Telefon:** +40 XXX XXX XXX  
-💬 **Chat:** [Link Discord/Slack]  
-📚 **Documentație:** [Link Wiki]  
-
-### Raportare Bug-uri
-
-Dacă întâmpini probleme:
-1. Notează exact ce ai făcut
-2. Fă screenshot la eroare
-3. Trimite la support@cafenea-system.com
-4. Include fișierul `cafenea.log` (dacă există)
-
----
-
 <div align="center">
 
-**[⬅️ Înapoi la README](README.md)** | **[Developer Guide ➡️](DEVELOPER_GUIDE.md)**
+**[⬅️ Înapoi la README](README.md)**
 
 *User Guide v1.0 - Actualizat 17 Octombrie 2025*
 

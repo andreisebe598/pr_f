@@ -278,7 +278,6 @@ init(autoreset=True)
 
 - [📖 Documentație Tehnică](DOCUMENTATION.md) - Arhitectură și detalii tehnice
 - [👤 User Guide](USER_GUIDE.md) - Ghid complet pentru utilizatori
-- [👨‍💻 Developer Guide](DEVELOPER_GUIDE.md) - Ghid pentru dezvoltatori
 
 ---
 
