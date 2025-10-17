@@ -1,0 +1,16 @@
+[
+    {
+        "id_angajat": 1,
+        "nume": "Sebe",
+        "prenume": "Andrei",
+        "salariu": 8000.0,
+        "post": "Director"
+    },
+    {
+        "id_angajat": 2,
+        "nume": "Calota",
+        "prenume": "Dorin",
+        "salariu": 3200.0,
+        "post": "Barista"
+    }
+]

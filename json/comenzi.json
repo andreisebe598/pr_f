@@ -1,0 +1,18 @@
+[
+    {
+        "id_comanda": 1,
+        "id_client": 1,
+        "id_angajat": 1,
+        "produse": [
+            {
+                "id_produs": 1,
+                "denumire": "Cappuccino",
+                "categorie": "Bauturi Calde",
+                "pret_vanzare": 6.0,
+                "cost_achizitie": 4.0,
+                "cantitate": 3
+            }
+        ],
+        "data": "16 October 2025 21:00:02"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "id_produs": 1,
+        "denumire": "Cappuccino",
+        "categorie": "Bauturi Calde",
+        "pret_vanzare": 6.0,
+        "cost_achizitie": 4.0,
+        "cantitate": 7
+    }
+]

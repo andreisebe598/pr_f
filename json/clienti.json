@@ -1,0 +1,9 @@
+[
+    {
+        "id_client": 1,
+        "nume": "Marcel",
+        "gen": "masculin",
+        "varsta": 23,
+        "bautura_preferata": "abc"
+    }
+]
