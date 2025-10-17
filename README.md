@@ -15,8 +15,6 @@ Un sistem complet de management pentru cafenele, dezvoltat în Python, care perm
 - [Structura Proiectului](#-structura-proiectului)
 - [Exemple](#-exemple)
 - [Troubleshooting](#-troubleshooting)
-- [Contribuții](#-contribuții)
-- [Licență](#-licență)
 
 ## 🚀 Funcționalități Principale
 
@@ -280,27 +278,6 @@ init(autoreset=True)
 - Arhivează comenzile vechi într-un fișier separat
 - Folosește indexare pentru căutări rapide
 
-## 🤝 Contribuții
-
-Contribuțiile sunt binevenite! Pentru schimbări majore:
-
-1. Fork repository-ul
-2. Creează un branch nou (`git checkout -b feature/AmazingFeature`)
-3. Commit modificările (`git commit -m 'Add AmazingFeature'`)
-4. Push la branch (`git push origin feature/AmazingFeature`)
-5. Deschide un Pull Request
-
-## 📞 Contact
-
-**Autor**: [Numele Tău]
-**Email**: your.email@example.com
-**GitHub**: [@username](https://github.com/username)
-
-## 📄 Licență
-
-Acest proiect este licențiat sub licența MIT - vezi fișierul [LICENSE](LICENSE) pentru detalii.
-
----
 
 ## 📚 Documentație Suplimentară
 
