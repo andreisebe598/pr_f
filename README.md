@@ -73,9 +73,8 @@ pathlib (inclus în Python 3.4+)
 
 ### Pasul 1: Clonare/Download Proiect
 ```bash
-# Clonează repository-ul (dacă este pe Git)
-git clone https://github.com/username/cafenea-management.git
-cd cafenea-management
+git clone https://github.com/andreisebe598/pr_f.git
+cd pr_f
 
 # SAU descarcă și extrage ZIP-ul
 ```
@@ -84,9 +83,6 @@ cd cafenea-management
 ```bash
 # Instalează colorama
 pip install colorama
-
-# SAU folosește requirements.txt (dacă există)
-pip install -r requirements.txt
 ```
 
 ### Pasul 3: Verificare Structură
@@ -101,7 +97,7 @@ proiect/
 
 ### Pasul 4: Creare Directoare JSON (opțional)
 ```bash
-mkdir -p json/rapoarte
+mkdir -p json/raports
 ```
 
 ## 🎮 Utilizare
@@ -283,7 +279,6 @@ init(autoreset=True)
 - [📖 Documentație Tehnică](DOCUMENTATION.md) - Arhitectură și detalii tehnice
 - [👤 User Guide](USER_GUIDE.md) - Ghid complet pentru utilizatori
 - [👨‍💻 Developer Guide](DEVELOPER_GUIDE.md) - Ghid pentru dezvoltatori
-- [📋 API Reference](API_REFERENCE.md) - Referință completă API
 
 ---
 
